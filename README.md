@@ -5,14 +5,11 @@
 **Track:** Make MCP Matter – AI Agents for Everyday Life[cite: 3, 4]  
 **Team Members:**
 * **Shrestha Bhadra** (Lead) — `1MS25ET049`
-* **Purnima Meachery** — `1MS25ET033`
+* **Poornima Meachery** — `1MS25ET033`
 
 ---
 
 ## Overview
-
-When a person is suddenly hospitalized, incapacitated, or passes away, families are often left untangling scattered financial accounts, insurance policies, subscriptions, renewals, and autopays during an emotional crisis[cite: 4]. Existing tools fall short: spreadsheets go stale, password managers store raw credentials without operational context, and static digital wills rarely guide immediate triage[cite: 4].
-
 **Break-Glass Vault Orchestrator** is a local-first AI agent powered by **Model Context Protocol (MCP)** that quietly builds a zero-knowledge **Life Map** of everyday obligations and unlocks a human-approved **Crisis Action Dossier** only when a verified emergency trigger fires[cite: 4].
 
 ---
